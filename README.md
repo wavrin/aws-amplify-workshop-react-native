@@ -127,8 +127,8 @@ $ amplify init
 - Choose your default editor: __Visual Studio Code (or your favorite editor)__   
 - Please choose the type of app that you're building __javascript__   
 - What javascript framework are you using __react-native__   
-- Source Directory Path: __/__   
-- Distribution Directory Path: __/__
+- Source Directory Path: __./__   
+- Distribution Directory Path: __./__
 - Build Command: __npm run-script build__   
 - Start Command: __npm run-script start__   
 - Select the authentication method you want to use: __AWS profile__
